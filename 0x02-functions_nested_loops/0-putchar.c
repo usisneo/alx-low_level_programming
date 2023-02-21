@@ -2,7 +2,7 @@
 /**
  * main: this is a  function printing the word putchar
  * description- print _putchar
- * Return: 0 always
+ * Return: always 0 
  */
 
 int main(void)
