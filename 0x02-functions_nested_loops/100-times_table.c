@@ -1,6 +1,5 @@
 #include "main.h"
 
-
 /**
  * print_times_table -Prints time table of the input
  * starting with 0
